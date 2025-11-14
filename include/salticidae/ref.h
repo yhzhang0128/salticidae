@@ -26,6 +26,7 @@
 #define _SALTICIDAE_REF_H
 
 #include <atomic>
+#include <cstdint>
 #include <functional>
 
 namespace salticidae {
